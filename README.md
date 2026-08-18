@@ -49,10 +49,3 @@
 </div>
 
 ---
-
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHADDY2001&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
